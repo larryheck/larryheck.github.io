@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [School of Electrical and Computer Engineering, Georgia Institute of Technology](https://www.ece.gatech.edu/)
+subtitle: <a href='#'><bf>Georgia Institute of Technology</bf></a>
 
 profile:
   align: right
