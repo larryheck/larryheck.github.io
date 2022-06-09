@@ -19,4 +19,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a Professor in the School of Electrical and Computer Engineering at Georgia Tech, affiliated with the Machine Learning Center (ML@GT), and an adjunct Professor in the School of Interactive Computing. I hold the Rhesa S. Farmer Distinguished Chair of Advanced Computing Concepts, and am a Georgia Research Alliance Eminent Scholar. 
 
-I am interested in <span class="font-weight-bold">Conversational AI</span>  and Natural Language Processing. My research goal is to create an autonomous <bf> digital human</bf> that can freely communicate with humans in <bf>open, mixed-reality</bf> domains.
+I am interested in <span class="font-weight-bold">next geneeration virtual assistants</span>, <span class="font-weight-bold">Conversational AI</span>, and <span class="font-weight-bold">Natural Language and Speech Processing</span>. My research goal is to create an autonomous <span class="font-weight-bold">digital human</span> that can freely communicate with humans in <span class="font-weight-bold">open, mixed-reality</span> domains.
