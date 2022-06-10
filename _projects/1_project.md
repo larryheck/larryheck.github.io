@@ -1,25 +1,15 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: AVA Lab
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+Georgia Tech's Artificial Intelligence Virtual Assistant (AVA) lab is focused on research behind next-generation virtual assistants.  We revisit assumptions regarding every aspect of modern AVAs - human-computer interaction design, single vs multimodal interactions, situated interactions over screens and mixed reality (AR/VR), task-oriented conversations to open-domain chit-chat to both, explicit to implicit (commonsense) knowledge-driven conversations, and higher level inference and reasoning.  
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
+<span class="font-weight-bold">Current Members</span>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
