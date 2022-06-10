@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a R. S. Farmer Jr Advanced Computing Concepts Endowed Chair, Georgia Research Alliance Eminent Scholar, and Professor of Electrical & Computer Engineering at the Georgia Institute of Technology. I am also affiliated with the Machine Learning Center (ML@GT), and an adjunct Professor in the School of Interactive Computing. 
+I am the R. S. Farmer Jr Advanced Computing Concepts Endowed Chair, a Georgia Research Alliance Eminent Scholar, and a Professor of Electrical & Computer Engineering at the Georgia Institute of Technology. I am also affiliated with the Machine Learning Center (ML@GT), and an adjunct Professor in the School of Interactive Computing. 
 
 I am interested in next generation <span class="font-weight-bold">Virtual Assistants</span>, <span class="font-weight-bold">Conversational AI</span>, and <span class="font-weight-bold">Natural Language and Speech Processing</span>. My research goal is to create an autonomous <span class="font-weight-bold">digital human</span> that can freely communicate with humans in <span class="font-weight-bold">open, mixed-reality</span> domains.
