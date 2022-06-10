@@ -7,11 +7,11 @@ subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>larryheck@gatech.edu</p>
-    <p>Technology Square Research Building</p>
-    <p>85 5th St NW</p>
-    <p>Atlanta, GA 30308</p>
+  #address: >
+    #<p>larryheck@gatech.edu</p>
+    #<p>Technology Square Research Building</p>
+    #<p>85 5th St NW</p>
+    #<p>Atlanta, GA 30308</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
