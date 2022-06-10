@@ -2,7 +2,7 @@
 layout: page
 title: AVA Lab
 description: 
-img: assets/img/12.jpg
+img: assets/img/ava_logo.jpg
 importance: 1
 category: work
 ---
