@@ -1,8 +1,8 @@
 ---
 layout: page
-title: projects
+title: research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: My research efforts at Georgia Tech
 nav: true
 nav_order: 1
 display_categories: [work, fun]
