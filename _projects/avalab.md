@@ -1,8 +1,8 @@
 ---
 layout: page
 title: AVA Lab
-description: 
-img: assets/img/ava_logo.jpg
+description: Georgia Tech's Artificial Intelligence Virtual Assistant (AVA) Lab 
+img: assets/img/ava_logo_sq.jpg
 importance: 1
 category: work
 ---
