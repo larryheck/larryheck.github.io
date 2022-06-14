@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: publications
 subtitle: <a href='https://scholar.google.com/citations?user=33ZWJmEAAAAJ&hl=en'>Google Scholar</a>
-description: <a href='https://scholar.google.com/citations?user=33ZWJmEAAAAJ&hl=en'>Google Scholar</a>
+description: Please see my <a href='https://scholar.google.com/citations?user=33ZWJmEAAAAJ&hl=en'>Google Scholar</a> page
 years: 
 nav: true
 nav_order: 2
