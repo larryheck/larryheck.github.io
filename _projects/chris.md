@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 
-description: Fred Richardson
+description: Chris Richardson
 img: assets/img/chris.jpg
 redirect: https://linkedin.com/in/christopher-richardson-b9690293
 importance: 3
