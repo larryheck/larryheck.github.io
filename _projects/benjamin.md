@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Benjamin Reichman
-description: 
+title:
+description:  Benjamin Reichman
 img: assets/img/benjamin.jpg
 redirect: https://www.linkedin.com/in/benjamin-reichman/
 importance: 3
