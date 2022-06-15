@@ -2,7 +2,7 @@
 layout: page
 title: 
 description: Chris Richardson
-img: assets/img/chris.jpg
+img: assets/img/Chris.jpg
 redirect: https://linkedin.com/in/christopher-richardson-b9690293
 importance: 3
 category: work

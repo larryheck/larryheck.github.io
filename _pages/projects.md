@@ -3,6 +3,7 @@ layout: page
 title: AVA Lab
 permalink: /projects/
 description:  Georgia Tech's Artificial Intelligence Virtual Assistant (AVA) lab is focused on research behind next-generation virtual assistants.  We revisit assumptions regarding every aspect of modern AVAs - human-computer interaction design, single vs multimodal interactions, situated interactions over screens and mixed reality (AR/VR), task-oriented conversations to open-domain chit-chat to both, explicit to implicit (commonsense) knowledge-driven conversations, and higher level inference and reasoning.  <p><span class="font-weight-bold">Members</span></p>
+
 nav: true
 nav_order: 1
 display_categories: [work, fun]
