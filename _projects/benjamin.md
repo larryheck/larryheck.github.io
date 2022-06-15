@@ -1,9 +1,9 @@
 ---
 layout: page
-title: AVA Digital Human
-description: Georgia Tech Vertically Integrated Project (VIP)
-img: assets/img/VXL_0_sq.jpg
-redirect: https://www.vip.gatech.edu/teams/vxl
+title: project 3
+description: a project that redirects to another website
+img: assets/img/benjamin.jpg
+redirect: https://unsplash.com
 importance: 3
 category: work
 ---
