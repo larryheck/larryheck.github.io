@@ -1,8 +1,8 @@
 ---
 layout: page
-title: research
+title: AVA Lab
 permalink: /projects/
-description: My research efforts at Georgia Tech
+description:  Georgia Tech's Artificial Intelligence Virtual Assistant (AVA) Lab
 nav: true
 nav_order: 1
 display_categories: [work, fun]
