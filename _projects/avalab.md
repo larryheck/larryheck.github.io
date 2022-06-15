@@ -15,6 +15,7 @@ Georgia Tech's Artificial Intelligence Virtual Assistant (AVA) lab is focused on
         {% include figure.html path="assets/img/benjamin.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
+    <a href='https://scholar.google.com/citations?user=33ZWJmEAAAAJ&hl=en'></a>
         {% include figure.html path="assets/img/chris.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
