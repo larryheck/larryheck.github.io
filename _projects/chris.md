@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: 
+description: 
 img: assets/img/chris.jpg
-redirect: https://unsplash.com
+redirect: https://linkedin.com/in/christopher-richardson-b9690293
 importance: 3
 category: work
 ---

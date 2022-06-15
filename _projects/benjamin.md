@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: 
+description: 
 img: assets/img/benjamin.jpg
-redirect: https://unsplash.com
+redirect: https://www.linkedin.com/in/benjamin-reichman/
 importance: 3
 category: work
 ---
