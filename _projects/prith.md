@@ -2,7 +2,7 @@
 layout: page
 title: 
 description: Prithwijit Chowdhury
-img: assets/img/toma.jpg
+img: assets/img/prith.jpg
 redirect: https://www.linkedin.com/in/prithwijit-chowdhury-067455152/
 importance: 3
 category: MS
