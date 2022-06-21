@@ -1,11 +1,11 @@
 ---
 layout: page
 title: 
-description: Phillip Kuhle
-img: assets/img/phillip.jpg
-redirect: https://www.linkedin.com/in/philip-kuhle-57815219a/
+description: Prithwijit Chowdhury
+img: assets/img/toma.jpg
+redirect: https://www.linkedin.com/in/prithwijit-chowdhury-067455152/
 importance: 3
-category: BS
+category: MS
 ---
 
 Every project has a beautiful feature showcase page.

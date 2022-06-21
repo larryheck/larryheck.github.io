@@ -5,7 +5,7 @@ description: Hao (Rick) Yen
 img: assets/img/rick.jpg
 redirect: https://www.linkedin.com/in/hao-rick-yen-1011/
 importance: 3
-category: work
+category: PhD
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,7 +5,7 @@ description: Chris Richardson
 img: assets/img/chris.jpg
 redirect: https://linkedin.com/in/christopher-richardson-b9690293
 importance: 3
-category: work
+category: PhD
 ---
 
 Every project has a beautiful feature showcase page.

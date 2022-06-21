@@ -5,7 +5,7 @@ description: Anirudh Sundar
 img: assets/img/ani.jpg
 redirect: https://www.linkedin.com/in/anirudhssundar/
 importance: 3
-category: work
+category: PhD
 ---
 
 Every project has a beautiful feature showcase page.

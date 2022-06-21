@@ -5,7 +5,7 @@ description: Tamara Zubatiy
 img: assets/img/toma.jpg
 redirect: https://www.linkedin.com/in/tzubatiy/
 importance: 3
-category: work
+category: PhD
 ---
 
 Every project has a beautiful feature showcase page.

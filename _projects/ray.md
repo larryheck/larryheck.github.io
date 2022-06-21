@@ -5,7 +5,7 @@ description: Pin-Jui (Ray) Ku
 img: assets/img/ray.jpg
 redirect: https://www.linkedin.com/in/pin-jui-ku-5839a4220/?trk=public_profile_browsemap
 importance: 3
-category: PhD Students
+category: PhD
 ---
 
 Every project has a beautiful feature showcase page.

@@ -5,7 +5,7 @@ description:  Benjamin Reichman
 img: assets/img/benjamin.jpg
 redirect: https://www.linkedin.com/in/benjamin-reichman/
 importance: 3
-category: work
+category: PhD
 ---
 
 Every project has a beautiful feature showcase page.

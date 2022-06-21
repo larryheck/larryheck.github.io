@@ -5,7 +5,7 @@ description: Saif Punjwani
 img: assets/img/saif.jpg
 redirect: https://www.linkedin.com/in/saif-punjwani-79144a1aa/
 importance: 3
-category: work
+category: BS
 ---
 
 Every project has a beautiful feature showcase page.
