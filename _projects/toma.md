@@ -3,7 +3,7 @@ layout: page
 title: 
 description: Tamara Zubatiy
 img: assets/img/toma.jpg
-redirect: https://www.linkedin.com/in/tzubatiy/
+redirect: http://tamarazubatiy.squarespace.com/
 importance: 3
 category: PhD
 ---

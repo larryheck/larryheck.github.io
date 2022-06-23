@@ -2,7 +2,7 @@
 layout: page
 title: 
 description: Anirudh Sundar
-img: assets/img/ani.jpg
+img: assets/img/anirudh.jpg
 redirect: https://www.linkedin.com/in/anirudhssundar/
 importance: 3
 category: PhD
