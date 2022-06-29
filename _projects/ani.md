@@ -3,7 +3,7 @@ layout: page
 title: 
 description: Anirudh Sundar
 img: assets/img/anirudh.jpg
-redirect: https://www.linkedin.com/in/anirudhssundar/
+redirect: https://anirudhssundar.github.io/
 importance: 3
 category: PhD
 ---
