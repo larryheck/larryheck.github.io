@@ -11,8 +11,8 @@ nav_order: 2
 <tbody id="myTable">
 
 <tr class="d-flex">
-<td class="col-2">Spring 2023</td>
-<td class="col-2"><a class=""> ECE 88x3</a></td>
+<td class="col-2">Fall 2023</td>
+<td class="col-2"><a class=""> ECE/CS 8803</a></td>
 <!-- <td class="col-2"><a class="" href="/teaching/ece88x3_sp23"> ECE 88x3 </a></td> -->
 <td class="col-8"><a class=""> Conversational AI </a></td>
 </tr>
