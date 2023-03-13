@@ -18,7 +18,7 @@ horizontal: false
 
 
 <tr class="d-flex">
-<td class="col-6" scope="row"><a href="/members/ani/">Ani Sundar</a></td>
+<td class="col-6" scope="row"><u><a href='https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en'>Ani Sundar</a></u> page</a></td>
 <td class="col-6">PhD student</td>
 </tr>
 
