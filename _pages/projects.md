@@ -18,22 +18,35 @@ horizontal: false
 
 
 <tr class="d-flex">
-<td class="col-6" scope="row"><u><a href='https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en'>Ani Sundar</a></u> page</a></td>
+<td class="col-6" scope="row"><u><a href='https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en'>Anirudh Sundar</a></u></td>
 <td class="col-6">PhD student</td>
+</tr>
+
+<td class="col-6" scope="row"><u><a href='https://scholar.google.com/citations?user=DCMff-kAAAAJ&hl=en'>Benjamin Reichman</a></u></td>
+<td class="col-6">PhD student</td>
+</tr>
+
+<td class="col-6" scope="row"><u><a href='https://scholar.google.com/citations?user=6Lk0excAAAAJ&hl=en'>Christopher Richardson</a></u></td>
+<td class="col-6">PhD student</td>
+</tr>
+
+<td class="col-6" scope="row"><u><a href='https://www.researchgate.net/profile/Tamara-Zubatiy-2'>Tamara Zubatiy </a></u></td>
+<td class="col-6">PhD student</td>
+</tr>
+
+<td class="col-6" scope="row"><u><a Tyler Lizzo </a></u></td>
+<td class="col-6">PhD student</td>
+</tr>
+
+<td class="col-6" scope="row"><u><a href='https://www.linkedin.com/in/prithwijit-chowdhury-067455152/?originalSubdomain=fr'>Prithwijit Chowdhury </a></u></td>
+<td class="col-6">MS student</td>
+</tr>
+
+<td class="col-6" scope="row"><u><a href='https://scholar.google.com/citations?user=gPPkcwkAAAAJ&hl=en'>Venkata Sai Ritwik Kotra  </a></u></td>
+<td class="col-6">MS student</td>
 </tr>
 
 </tbody>
 </table>
 
-<h3 id="past-members">past members</h3>
-<table class="table table-hover table-borderless text-left">
-<tbody id="myTable">
-
-<tr class="d-flex">
-<td class="col-6" scope="row"><a href="/members/alex/">Alex Pierrot</a></td>
-<td class="col-6">PhD student</td>
-</tr>
-
-</tbody>
-</table>
 
