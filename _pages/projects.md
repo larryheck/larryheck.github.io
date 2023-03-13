@@ -8,15 +8,6 @@ nav_order: 1
 display_categories: []
 horizontal: false
 ---
-    <!-- Content -->
-
-    <div class="container mt-5">
-      <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">research</h1>
-    <p class="post-description">Adaptive Communication Decision and Information Systems Research group</p>
-  </header>
 
   <article>
     <!--<input class="form-control" id="myInput" type="text" placeholder="Search.."/> <br/>-->
