@@ -38,7 +38,7 @@ horizontal: false
 </tr>
 
 <tr class="d-flex">
-<td class="col-6" scope="row"><a href='https://www.research.gatech.edu/ece-students-place-first-second-premier-microelectronics-undergraduate-research-competition'> Tyler Lizzo </a></td>
+<td class="col-6" scope="row"><a href="/members/tyler"> Tyler Lizzo </a></td>
 <td class="col-6">PhD student</td>
 </tr>
 
