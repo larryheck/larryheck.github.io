@@ -6,7 +6,7 @@ subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
 
 profile:
   align: right
-  image: DSC_0296.jpg
+  image: DSC_0350.jpg
   #address: >
     #<p>larryheck@gatech.edu</p>
     #<p>Technology Square Research Building</p>
