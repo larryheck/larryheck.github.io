@@ -6,7 +6,7 @@ subtitle: <a href='https://www.gatech.edu/'>Georgia Institute of Technology</a>
 
 profile:
   align: right
-  image: Home_04022023.jpg
+  image: Home2_04022023.jpg
   #address: >
     #<p>larryheck@gatech.edu</p>
     #<p>Technology Square Research Building</p>
@@ -15,7 +15,7 @@ profile:
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true  # includes social icons at bottom of the page
 ---
 
 I am the R. S. Farmer Jr Advanced Computing Concepts Endowed Chair, a Georgia Research Alliance Eminent Scholar, co-Executive Director of the Machine Learning Center (ML@GT), and a Professor at the Georgia Institute of Technology. I have a joint appointment in the College of Engineering (Electrical & Computer Engineering) and the College of Computing (Interactive Computing). 
