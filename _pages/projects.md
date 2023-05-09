@@ -16,6 +16,10 @@ horizontal: false
 <table class="table table-hover table-borderless text-left">
 <tbody id="myTable">
 
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?hl=en&user=tHbMyNoAAAAJ'>Dan Wang</a></td>
+<td class="col-6">Post Doc</td>
+</tr>
 
 <tr class="d-flex">
 <td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en'>Anirudh Sundar</a></td>
