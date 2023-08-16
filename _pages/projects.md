@@ -42,11 +42,6 @@ horizontal: false
 </tr>
 
 <tr class="d-flex">
-<td class="col-6" scope="row"><a href='https://www.linkedin.com/in/prithwijit-chowdhury-067455152/?originalSubdomain=fr'>Prithwijit Chowdhury </a></td>
-<td class="col-6">MS student</td>
-</tr>
-
-<tr class="d-flex">
 <td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=gPPkcwkAAAAJ&hl=en'>Venkata Sai Ritwik Kotra  </a></td>
 <td class="col-6">MS student</td>
 </tr>
