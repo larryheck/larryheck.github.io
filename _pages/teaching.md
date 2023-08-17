@@ -13,8 +13,8 @@ nav_order: 2
 <tr class="d-flex">
 <td class="col-2">Fall 2023</td>
 <td class="col-2"><a class=""> ECE/CS 8803</a></td>
-<td class="col-2"><a class="" href="/teaching/cAI"> CS/ECE 8803-R </a></td>
-<td class="col-8"><a class=""> Conversational AI </a></td>
+<td class="col-2"><a class="" href="/teaching/cAI"> Conversational AI </a></td>
+<!--<td class="col-8"><a class=""> Conversational AI </a></td> -->
 </tr>
 
 <tr class="d-flex">
