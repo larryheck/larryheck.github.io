@@ -20,7 +20,7 @@ nav_order: 2
 <tr class="d-flex">
 <td class="col-2">Fall 2022</td>
 <td class="col-3"><a class=""> ECE 6254</a></td>
-<td class="col-8"><a href=https://drive.google.com/file/d/1BD54KVPk-c4ko8dBAnSw41WPp047CytI/view?usp=drive_link'> Statistical Machine Learning </a></td>
+<td class="col-8"><a href='https://drive.google.com/file/d/1BD54KVPk-c4ko8dBAnSw41WPp047CytI/view?usp=drive_link'> Statistical Machine Learning </a></td>
 </tr>
 
 <tr class="d-flex">
