@@ -13,7 +13,7 @@ nav_order: 2
 <tr class="d-flex">
 <td class="col-2">Fall 2023</td>
 <td class="col-2"><a class=""> ECE/CS 8803</a></td>
-<td class="col-2"><a class="" href="/teaching/cAI"> Conversational AI </a></td>
+<td class="col-2"><a href='https://scholar.google.com/citations?user=33ZWJmEAAAAJ&hl=en'>Conversational AI</a></td>
 <!--<td class="col-8"><a class=""> Conversational AI </a></td> -->
 </tr>
 
