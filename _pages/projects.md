@@ -17,21 +17,6 @@ horizontal: false
 <tbody id="myTable">
 
 <tr class="d-flex">
-<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en'>Anirudh Sundar</a></td>
-<td class="col-6">PhD student</td>
-</tr>
-
-<tr class="d-flex">
-<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=DCMff-kAAAAJ&hl=en'>Benjamin Reichman</a></td>
-<td class="col-6">PhD student</td>
-</tr>
-
-<tr class="d-flex">
-<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=6Lk0excAAAAJ&hl=en'>Christopher Richardson</a></td>
-<td class="col-6">PhD student</td>
-</tr>
-
-<tr class="d-flex">
 <td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=xzt3VP0AAAAJ&hl=en'>Devleena Das</a></td>
 <td class="col-6">Research Scientist</td>
 </tr>
@@ -47,6 +32,26 @@ horizontal: false
 </tr>
 
 <tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://www.linkedin.com/in/williamegay/'> William Gay </a></td>
+<td class="col-6">Research Engineer</td>
+</tr>
+
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en'>Anirudh Sundar</a></td>
+<td class="col-6">PhD student</td>
+</tr>
+
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=DCMff-kAAAAJ&hl=en'>Benjamin Reichman</a></td>
+<td class="col-6">PhD student</td>
+</tr>
+
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=6Lk0excAAAAJ&hl=en'>Christopher Richardson</a></td>
+<td class="col-6">PhD student</td>
+</tr>
+
+<tr class="d-flex">
 <td class="col-6" scope="row"><a href='https://www.linkedin.com/in/tyler-lizzo'> Tyler Lizzo </a></td>
 <td class="col-6">PhD student</td>
 </tr>
@@ -56,10 +61,7 @@ horizontal: false
 <td class="col-6">PhD student (starting fall 2024)</td>
 </tr>
 
-<tr class="d-flex">
-<td class="col-6" scope="row"><a href='https://www.linkedin.com/in/williamegay/'> William Gay </a></td>
-<td class="col-6">Research Engineer</td>
-</tr>
+
 
 <tr class="d-flex">
 <td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=gPPkcwkAAAAJ&hl=en'>Venkata Sai Ritwik Kotra  </a></td>
@@ -79,13 +81,13 @@ horizontal: false
 </tbody>
 </table>
 
-<h3 id="alumni">current members</h3>
+<h3 id="current-members">alumni</h3>
 <table class="table table-hover table-borderless text-left">
 <tbody id="myTable">
 
 <tr class="d-flex">
 <td class="col-6" scope="row"><a href='https://www.researchgate.net/profile/Tamara-Zubatiy-2'>Tamara Zubatiy </a></td>
-<td class="col-6">PhD (co-advised with Beth Mynatt, 2024) --> PostDoc, Northeastern University</td>
+<td class="col-6">PhD (co-advised with Beth Mynatt, 2024), PostDoc, Northeastern University</td>
 </tr>
 
 </tbody>
