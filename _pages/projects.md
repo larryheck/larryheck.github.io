@@ -32,8 +32,18 @@ horizontal: false
 </tr>
 
 <tr class="d-flex">
-<td class="col-6" scope="row"><a href='https://www.researchgate.net/profile/Tamara-Zubatiy-2'>Tamara Zubatiy </a></td>
-<td class="col-6">PhD student</td>
+<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=xzt3VP0AAAAJ&hl=en'>Devleena Das</a></td>
+<td class="col-6">Research Scientist</td>
+</tr>
+
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=tNg5EqkAAAAJ&hl=en'>Jin Xu</a></td>
+<td class="col-6">Research Scientist</td>
+</tr>
+
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://www.linkedin.com/in/john-andrew-taylor/'>John Taylor</a></td>
+<td class="col-6">Research Engineer</td>
 </tr>
 
 <tr class="d-flex">
@@ -42,11 +52,41 @@ horizontal: false
 </tr>
 
 <tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=GfTIfpEAAAAJ&hl=en'> Shrenik Bhansali </a></td>
+<td class="col-6">PhD student (starting fall 2024)</td>
+</tr>
+
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://www.linkedin.com/in/williamegay/'> William Gay </a></td>
+<td class="col-6">Research Engineer</td>
+</tr>
+
+<tr class="d-flex">
 <td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=gPPkcwkAAAAJ&hl=en'>Venkata Sai Ritwik Kotra  </a></td>
 <td class="col-6">MS student</td>
+</tr>
+
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=VfCszRsAAAAJ&hl=en'>Saif Punjwani  </a></td>
+<td class="col-6">BS student</td>
+</tr>
+
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://www.linkedin.com/in/alwinjin/'>Alwin Jin  </a></td>
+<td class="col-6">BS student</td>
 </tr>
 
 </tbody>
 </table>
 
+<h3 id="alumni">current members</h3>
+<table class="table table-hover table-borderless text-left">
+<tbody id="myTable">
 
+<tr class="d-flex">
+<td class="col-6" scope="row"><a href='https://www.researchgate.net/profile/Tamara-Zubatiy-2'>Tamara Zubatiy </a></td>
+<td class="col-6">PhD (co-advised with Beth Mynatt, 2024) --> PostDoc, Northeastern University</td>
+</tr>
+
+</tbody>
+</table>
