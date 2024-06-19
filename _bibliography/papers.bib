@@ -705,13 +705,24 @@
   year={2013}
 }
 
+@article{sundar2024cpapers,
+  title={cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers},
+  author={Sundar, Anirudh and Xu, Jin and Gay, William and Richardson, Christopher and Heck, Larry},
+  journal={arXiv preprint arXiv:2406.08398},
+  year={2024},
+  url = "https://arxiv.org/pdf/2406.08398",
+  pdf="https://arxiv.org/pdf/2406.08398",
+  abstract="An emerging area of research in situated and multimodal interactive conversations (SIMMC) includes interactions in scientific papers. Since scientific papers are primarily composed of text, equations, figures, and tables, SIMMC methods must be developed specifically for each component to support the depth of inquiry and interactions required by research scientists. This work introduces Conversational Papers (cPAPERS), a dataset of conversational question-answer pairs from reviews of academic papers grounded in these paper components and their associated references from scientific documents available on arXiv. We present a data collection strategy to collect these question-answer pairs from OpenReview and associate them with contextual information from LaTeX source files. Additionally, we present a series of baseline approaches utilizing Large Language Models (LLMs) in both zero-shot and fine-tuned configurations to address the cPAPERS dataset.",
+  selected={true}
+}
+
 @article{mforms,
   abbr={LREC '24},
   title     = {"mForms: Multimodal Form Filling with Question Answering},
     author    = {L Heck and S Heck and AS Sundar},
     journal = {Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)},
     year      = {2024},
-    url = "https://aclanthology.org/2024.lrec-main.984.pdf",
+    url = "https://arxiv.org/pdf/2406.08398",
     pdf="https://aclanthology.org/2024.lrec-main.984.pdf",
     abstract = "This paper presents a new approach to form-filling by reformulating the task as multimodal natural language Question Answering (QA). The reformulation is achieved by first translating the elements on the GUI form (text fields, buttons, icons, etc.) to natural language questions, where these questions capture the element’s multimodal semantics. After a match is determined between the form element (Question) and the user utterance (Answer), the form element is filled through a pre-trained extractive QA system. By leveraging pre-trained QA models and not requiring form-specific training, this approach to form-filling is zero-shot. The paper also presents an approach to further refine the form-filling by using multi-task training to incorporate a potentially large number of successive tasks. Finally, the paper introduces a multimodal natural language form-filling dataset Multimodal Forms (mForms), as well as a multimodal extension of the popular ATIS dataset to support future research and experimentation. Results show the new approach not only maintains robust accuracy for sparse training conditions but achieves state-of-the-art F1 of 0.97 on ATIS with approximately 1/10th the training data.",
     selected={true}
