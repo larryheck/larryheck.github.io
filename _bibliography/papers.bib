@@ -705,12 +705,37 @@
   year={2013}
 }
 
+@article{sundar2024gtbls,
+  abbr="arXiv '24",
+  title={gtbls: Generating tables from text by conditional question answering},
+  author={Sundar, Anirudh and Richardson, Christopher and Heck, Larry},
+  journal={arXiv preprint arXiv:2403.14457},
+  url="https://arxiv.org/abs/2403.14457",
+  pdf="https://arxiv.org/pdf/2403.14457",
+  abstract="Distilling large, unstructured text into a structured, condensed form such as tables is an open research problem. One of the primary challenges in automatically generating tables is ensuring their syntactic validity. Prior approaches address this challenge by including additional parameters in the Transformer's attention mechanism to attend to specific rows and column headers. In contrast to this single-stage method, this paper presents a two-stage approach called Generative Tables (gTBLS). The first stage infers table structure (row and column headers) from the text. The second stage formulates questions using these headers and fine-tunes a causal language model to answer them. Furthermore, the gTBLS approach is amenable to the utilization of pre-trained Large Language Models in a zero-shot configuration, presenting a solution for table generation in situations where fine-tuning is not feasible. gTBLS improves prior approaches by up to 10% in BERTScore on the table construction task and up to 20% on the table content generation task of the E2E, WikiTableText, WikiBio, and RotoWire datasets.",
+  year={2024},
+  selected={true}
+}
+
+@article{sundar2024itbls,
+  abbr="arXiv '24",
+  title={iTBLS: A Dataset of Interactive Conversations Over Tabular Information},
+  author={Sundar, Anirudh and Richardson, Christopher and Gay, William and Heck, Larry},
+  journal={arXiv preprint arXiv:2404.12580},
+  year={2024},
+  url="https://arxiv.org/abs/2404.12580",
+  pdf="https://arxiv.org/pdf/2404.12580",
+  abstract="This paper introduces Interactive Tables (iTBLS), a dataset of interactive conversations situated in tables from scientific articles. This dataset is designed to facilitate human-AI collaborative problem-solving through AI-powered multi-task tabular capabilities. In contrast to prior work that models interactions as factoid QA or procedure synthesis, iTBLS broadens the scope of interactions to include mathematical reasoning, natural language manipulation, and expansion of existing tables from natural language conversation by delineating interactions into one of three tasks: interpretation, modification, or generation. Additionally, the paper presents a suite of baseline approaches to iTBLS, utilizing zero-shot prompting and parameter-efficient fine-tuning for different computing situations. We also introduce a novel multi-step approach and show how it can be leveraged in conjunction with parameter-efficient fine-tuning to achieve the state-of-the-art on iTBLS; outperforming standard parameter-efficient fine-tuning by up to 15% on interpretation, 18% on modification, and 38% on generation.",
+  selected={true}
+}
+
 @article{sundar2024cpapers,
+  abbr="arXiv '24",
   title={cPAPERS: A Dataset of Situated and Multimodal Interactive Conversations in Scientific Papers},
   author={Sundar, Anirudh and Xu, Jin and Gay, William and Richardson, Christopher and Heck, Larry},
   journal={arXiv preprint arXiv:2406.08398},
   year={2024},
-  url = "https://arxiv.org/pdf/2406.08398",
+  url = "https://arxiv.org/abs/2406.08398",
   pdf="https://arxiv.org/pdf/2406.08398",
   abstract="An emerging area of research in situated and multimodal interactive conversations (SIMMC) includes interactions in scientific papers. Since scientific papers are primarily composed of text, equations, figures, and tables, SIMMC methods must be developed specifically for each component to support the depth of inquiry and interactions required by research scientists. This work introduces Conversational Papers (cPAPERS), a dataset of conversational question-answer pairs from reviews of academic papers grounded in these paper components and their associated references from scientific documents available on arXiv. We present a data collection strategy to collect these question-answer pairs from OpenReview and associate them with contextual information from LaTeX source files. Additionally, we present a series of baseline approaches utilizing Large Language Models (LLMs) in both zero-shot and fine-tuned configurations to address the cPAPERS dataset.",
   selected={true}
@@ -718,7 +743,7 @@
 
 @article{mforms,
   abbr={LREC '24},
-  title     = {"mForms: Multimodal Form Filling with Question Answering},
+  title     = {mForms: Multimodal Form Filling with Question Answering},
     author    = {L Heck and S Heck and AS Sundar},
     journal = {Proceedings of the Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING)},
     year      = {2024},
@@ -730,7 +755,7 @@
 
 @article{symbl_2024,
   abbr={arXiv '24},
-  title     = {"Are Human Conversations Special? A Large Language Model Perspective},
+  title     = {Are Human Conversations Special? A Large Language Model Perspective},
     author    = {T Jawale and C Animesh and S Vallath and K Talamadupula and L Heck},
     journal = {arXiv preprint arXiv:2403.05045},
     year      = {2024},
@@ -742,7 +767,7 @@
 
 @article{reichman_2024,
   abbr={arXiv '24},
-  title     = {"Retrieval-Augmented Generation: Is Dense Passage Retrieval Retrieving?},
+  title     = {Retrieval-Augmented Generation: Is Dense Passage Retrieval Retrieving?},
     author    = {B Reichman and L Heck},
     journal = {arXiv preprint arXiv:2402.11035},
     year      = {2024},
@@ -755,7 +780,7 @@
 
 @article{toma_2023,
   abbr={CSCW '23},
-  title     = {"I don't know how to help with that"-Learning from Limitations of Modern Conversational Agent Systems in Caregiving Networks},
+  title     = {I don't know how to help with that"-Learning from Limitations of Modern Conversational Agent Systems in Caregiving Networks},
     author    = {T Zubatiy and N Mathur and L Heck and KL Vickers and A Rozga and ED Mynatt},
     journal = {Proceedings of the ACM on Human-Computer Interaction (CSCW)},
     year      = {2023},
