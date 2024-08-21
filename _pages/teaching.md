@@ -11,6 +11,13 @@ nav_order: 2
 <tbody id="myTable">
 
 <tr class="d-flex">
+<td class="col-2">Fall 2024</td>
+<td class="col-3"><a class=""> ECE/CS 8803</a></td>
+<td class="col-8"><a href='https://drive.google.com/file/d/1ifC7BWQk4LwTWSLzUpBv2Y7qu9mPYYbu/view?usp=drive_link'>Conversational AI</a></td>
+<!--<td class="col-8"><a class=""> Conversational AI </a></td> -->
+</tr>
+
+<tr class="d-flex">
 <td class="col-2">Fall 2023</td>
 <td class="col-3"><a class=""> ECE/CS 8803</a></td>
 <td class="col-8"><a href='https://drive.google.com/file/d/17y1LOxqenSokqV8hIcXGQb5CVJEBdhM4/view?usp=drive_link'>Conversational AI</a></td>
