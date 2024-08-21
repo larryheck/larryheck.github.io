@@ -58,7 +58,7 @@ horizontal: false
 
 <tr class="d-flex">
 <td class="col-6" scope="row"><a href='https://scholar.google.com/citations?user=GfTIfpEAAAAJ&hl=en'> Shrenik Bhansali </a></td>
-<td class="col-6">PhD student (starting fall 2024)</td>
+<td class="col-6">PhD student</td>
 </tr>
 
 
