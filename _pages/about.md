@@ -13,9 +13,9 @@ profile:
     <p>85 5th Street</p>
     <p>Atlanta, Georgia 30332</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 Larry Heck is a Professor with a joint appointment in ECE and Interactive Computing at the Georgia Institute of Technology. He holds the Rhesa S. Farmer Advanced Computing Concepts Chair and is a Georgia Research Alliance Eminent Scholar. From 2017-2021, he was the CEO of Viv Labs and SVP at Samsung where he led Bixby for North America. From 2014-2017, he was a Principal Scientist at Google, leading an advanced Dialogue effort in Google Research. From 2009-­2014, he was the Chief Scientist of the Microsoft Speech products team and later a Distinguished Engineer in Microsoft Research. In 2009, he was a co-founder of Microsoft’s Cortana personal assistant. From 2005-2009, he was Vice President at Yahoo! responsible for Search and Advertising quality. From 1998-2005, he was with Nuance Communications and served as Vice President of R&D. He began his career as a researcher at the Stanford Research Institute (1992-1998) initially in acoustics and later in speech research with the Speech Technology and Research (STAR) Laboratory. Funded by the US government's NSA and DARPA, his SRI Speaker Recognition team was the first to successfully create large-scale deep neural network (DNN) deep learning technology in the field of speech processing (1998 National Institute of Standards and Technology Speaker Recognition evaluation) and the first to deploy a major industrial application of deep learning.
