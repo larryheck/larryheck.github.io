@@ -25,6 +25,15 @@ Georgia Tech's AI Virtual Assistant (AVA) lab is focused on research behind next
 **Undergraduate Students**
 - Muhammad Y Yousuf
 - Rishab Kalluri
+- Saif Punjwani
+
+**AVA Lab Alumni**
+- Dr. Anirudh Sundar (Microsoft)
+- Dr. Christopher Richardson (Google)
+- Dr. Tamara Zubatiy (Northeaster University)
+- Ritwik Kotra (Amazon)
+- John Taylor (IBM)
+- William Gay (Opto Investments)
 
 ## Contact
 
