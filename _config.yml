@@ -235,7 +235,6 @@ exclude:
   - _projects/
   - _posts/
   - _pages/repositories.md
-  - _pages/publications.md
   - _news/
   - _pages/cv.md
   - _pages/projects.md
