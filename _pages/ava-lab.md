@@ -15,12 +15,14 @@ Georgia Tech's AI Virtual Assistant (AVA) lab is focused on research behind next
 ## People
 
 **Dr. Larry Heck** – Principal Investigator
+
 **PhD Students**
 - Adar Avsian
 - Benjamin Reichman
 - Shrenik Bhansali
 - Tyler Lizzo
-** Undergraduate Students**
+
+**Undergraduate Students**
 - Muhammad Y Yousuf
 - Rishab Kalluri
 
