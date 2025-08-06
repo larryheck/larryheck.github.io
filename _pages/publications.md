@@ -6,15 +6,5 @@ description: <a href='https://scholar.google.com/citations?hl=en&user=33ZWJmEAAA
 nav: true
 nav_order: 2
 ---
+Larry Heck's publications are here: <a href='https://scholar.google.com/citations?hl=en&user=33ZWJmEAAAAJ'>Google Scholar</a>
 
-<!-- _pages/publications.md -->
-
-<!-- Bibsearch Feature -->
-
-<!-- {% include bib_search.liquid %} -->
-
-<!-- <div class="publications"> -->
-
-<!-- {% bibliography %} -->
-
-<!-- </div> -->
