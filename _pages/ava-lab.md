@@ -30,7 +30,7 @@ Georgia Tech's AI Virtual Assistant (AVA) lab is focused on research behind next
 **AVA Lab Alumni**
 - Dr. Anirudh Sundar (Microsoft)
 - Dr. Christopher Richardson (Google)
-- Dr. Tamara Zubatiy (Northeaster University)
+- Dr. Tamara Zubatiy (Northeastern University)
 - Ritwik Kotra (Amazon)
 - John Taylor (IBM)
 - William Gay (Opto Investments)
