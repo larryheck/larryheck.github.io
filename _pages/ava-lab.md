@@ -3,7 +3,7 @@ layout: page
 title: "AVA Lab"
 permalink: /ava-lab/
 nav: true
-nav_order: 2  # Choose the order you want it to appear in the navbar
+nav_order: 3  # Choose the order you want it to appear in the navbar
 ---
 
 Welcome to the AVA Lab.
