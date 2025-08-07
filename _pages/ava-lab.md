@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "AVA Lab"
-permalink: /ava-lab/
+permalink: /avalab/
 nav: true
 nav_order: 3  # Choose the order you want it to appear in the navbar
 ---
