@@ -18,9 +18,9 @@ Georgia Tech's AI Virtual Assistant (AVA) lab is focused on research behind next
 
 **PhD Students**
 - Adar Avsian
-- Benjamin Reichman
-- Shrenik Bhansali
-- Tyler Lizzo
+- <a href='https://scholar.google.com/citations?hl=en&user=DCMff-kAAAAJ'>Benjamin Reichman</a>
+- <a href='https://scholar.google.com/citations?hl=en&user=GfTIfpEAAAAJ'>Shrenik Bhansali</a>
+- <a href='https://scholar.google.com/citations?hl=en&user=V4wo1ogAAAAJ'>Tyler Lizzo</a>
 
 **Undergraduate Students**
 - Muhammad Y Yousuf
@@ -28,9 +28,9 @@ Georgia Tech's AI Virtual Assistant (AVA) lab is focused on research behind next
 - Saif Punjwani
 
 **AVA Lab Alumni**
-- Dr. Anirudh Sundar (Microsoft)
-- Dr. Christopher Richardson (Google)
-- Dr. Tamara Zubatiy (Northeastern University)
+- <a href='https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en'>Dr. Anirudh Sundar (Microsoft)</a>
+- <a href='https://scholar.google.com/citations?hl=en&user=6Lk0excAAAAJ'>Dr. Christopher Richardson (Google)</a>
+- <a href='https://scholar.google.com/citations?hl=en&user=zHSUzTUAAAAJ' >Dr. Tamara Zubatiy (Northeastern University)</a>
 - John Taylor (IBM)
 - William Gay (Opto Investments)
 
