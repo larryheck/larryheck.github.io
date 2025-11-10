@@ -31,8 +31,8 @@ Georgia Tech's AI Virtual Assistant (AVA) lab is focused on research behind next
 - <a href='https://scholar.google.com/citations?user=zaosyNUAAAAJ&hl=en'>Dr. Anirudh Sundar (Microsoft)</a>
 - <a href='https://scholar.google.com/citations?hl=en&user=6Lk0excAAAAJ'>Dr. Christopher Richardson (Google)</a>
 - <a href='https://scholar.google.com/citations?hl=en&user=zHSUzTUAAAAJ' >Dr. Tamara Zubatiy (Northeastern University)</a>
-- <a href=https://www.linkedin.com/in/venkata-sai-ritwik-kotra-97a0b4248/?originalSubdomain=in> Venkata Sai Ritwik Kotra (Amazon) </a>
-- <a href=https://scholar.google.com/citations?user=VfCszRsAAAAJ&hl=en> Saif Punjwani (Columbia) </a>
+- <a href='https://www.linkedin.com/in/venkata-sai-ritwik-kotra-97a0b4248/?originalSubdomain=in'> Venkata Sai Ritwik Kotra (Amazon) </a>
+- <a href='https://scholar.google.com/citations?user=VfCszRsAAAAJ&hl=en'> Saif Punjwani (Columbia) </a>
 - John Taylor (IBM)
 - William Gay (Opto Investments)
 
