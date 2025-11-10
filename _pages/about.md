@@ -12,6 +12,7 @@ profile:
     <p>TSRB 436b</p>
     <p>85 5th Street</p>
     <p>Atlanta, Georgia 30332</p>
+    <p> larryheck@gatech.edu </p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
