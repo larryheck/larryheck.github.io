@@ -6,7 +6,7 @@ subtitle: <a href='https://www.gatech.edu/'>Affiliations</a>
 
 profile:
   align: right
-  image: prof_pic.png
+  image: prof_pic_circle.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>TSRB 436b</p>
